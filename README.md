@@ -1,2 +1,2 @@
-# primeng-adobe-xd-sticker-sheet
-PrimeNG Adobe XD CC Sticker Sheet
+# PrimeNG Adobe XD CC Sticker Sheet
+ (Unofficial) PrimeNG Adobe XD CC Sticker Sheet
