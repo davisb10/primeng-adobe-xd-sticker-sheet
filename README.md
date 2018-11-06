@@ -42,5 +42,11 @@ Components will be added to this design document as they are added to the websit
 - Overlay
   - ConfirmDialog
   - Dialog
+- Panel
+  - Accordion
+  - Card
+  - Fieldset
+  - Panel
+  - TabView
 - Data
   - Carousel
