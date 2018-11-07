@@ -18,6 +18,8 @@ These components are 'based' on the originals but may be slightly different as t
 
 Components will be added to this design document as they are added to the website.
 
+Font of Components and Text Fields: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+
 ### Included Components
 
 - Input
@@ -50,3 +52,8 @@ Components will be added to this design document as they are added to the websit
   - TabView
 - Data
   - Carousel
+  - DataView
+  - Paginator
+  - OrderList
+  - PickList
+  - Table
